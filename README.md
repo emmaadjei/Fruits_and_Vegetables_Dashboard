@@ -14,7 +14,7 @@
 ### Project Overview
 This document provides an overview of the key insights and recommendations derived from the analysis of a dataset representing a hypothetical company supplying fruits and vegetables across multiple countries in 2016. The dashboard created for this project was designed to visualize trends, provide actionable insights, and enhance decision-making.
 
-![Screenshot 2025-03-20 164324](https://github.com/user-attachments/assets/cf766a0c-ac12-4207-88f1-6976d9af4690)
+![Excel cap](https://github.com/user-attachments/assets/dd6aa38a-4861-4285-94f5-6f3f11383a94)
 
 
 
